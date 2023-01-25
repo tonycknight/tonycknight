@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ahoy there 👋
 
-<!--
-**tonycknight/tonycknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Tony. I'm a Lead Engineer and an incorrigble nerd.
 
-Here are some ideas to get you started:
+My [blog](https://dev.to/tonycknight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Some projects
+
+[Tubescan](https://github.com/tonycknight/tubescan) - a Discord bot for tube status
+
+[Nomoretrolls](https://github.com/tonycknight/nomoretrolls) - a Discord bot for policing chat
+
+[kvps-cli](https://github.com/tonycknight/kvps-cli) - a dotnet CLI tool for local key value storage
