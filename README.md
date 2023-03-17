@@ -12,5 +12,7 @@ Hi, I'm Tony. I'm a Lead Engineer, gamer and incorrigble nerd.
 
 [tktk-cli](https://github.com/tonycknight/tktk-cli) - an eclectic set of tools wrapped in a dotnet CLI
 
-And lastly, my [blog](https://dev.to/tonycknight).
+## Some writing
+
+And lastly, my [blog](https://tonycknight.github.io/).
 
