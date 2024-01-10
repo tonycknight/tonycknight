@@ -21,3 +21,7 @@ Hi, I'm Tony. I'm a Lead Engineer, gamer and incorrigble nerd.
 [jwt=cli](https://github.com/tonycknight/jwt-cli) - a CLI tool for breaking down JWTs.
 
 [epoch-cli](https://github.com/tonycknight/epoch-cli) - a CLI tool for working with Epoch times.
+
+### Eve online tooling
+
+[eveproxy](https://github.com/tonycknight/eveproxy) - a proxy server for APIs in the Eve domain. Work in progress!
