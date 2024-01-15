@@ -18,7 +18,7 @@ Hi, I'm Tony. I'm a Lead Engineer, gamer and incorrigble nerd.
 
 [tktk-cli](https://github.com/tonycknight/tktk-cli) - an eclectic set of tools wrapped in a CLI.
 
-[jwt=cli](https://github.com/tonycknight/jwt-cli) - a CLI tool for breaking down JWTs.
+[jwt-cli](https://github.com/tonycknight/jwt-cli) - a CLI tool for breaking down JWTs.
 
 [epoch-cli](https://github.com/tonycknight/epoch-cli) - a CLI tool for working with Epoch times.
 
