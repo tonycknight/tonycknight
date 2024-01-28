@@ -12,6 +12,8 @@ Hi, I'm Tony. I'm a Lead Engineer, gamer and incorrigble nerd.
 
 ### Dotnet tools
 
+[pkgchk=action](https://github.com/tonycknight/pkgchk-action) - a Github action for checking .Net package dependencies.
+
 [pkgchk-cli](https://github.com/tonycknight/pkgchk-cli) - a CLI tool for checking .Net package dependencies.
 
 [kvps-cli](https://github.com/tonycknight/kvps-cli) - a CLI tool for local key value pairs.
