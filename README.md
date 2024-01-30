@@ -6,9 +6,9 @@ Hi, I'm Tony. I'm a Lead Engineer, gamer and incorrigble nerd.
 
 ### Discord bots
 
-[tubescan](https://github.com/tonycknight/tubescan) - a Discord bot for tube status, to find the optimal time to dash to the pub.
+[tubescan](https://github.com/tonycknight/tubescan) - a Discord bot for tube status and station crowding.
 
-[nomoretrolls](https://github.com/tonycknight/nomoretrolls) - a Discord bot for policing chat. Dealing with Discord trolls is remarkably informed fun.
+[nomoretrolls](https://github.com/tonycknight/nomoretrolls) - a Discord bot for policing chat. Not a normal cop.
 
 ### Dotnet tools
 
