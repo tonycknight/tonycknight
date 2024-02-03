@@ -26,4 +26,4 @@ Hi, I'm Tony. I'm a Lead Engineer, gamer and incorrigble nerd.
 
 ### [Eve Online](https://www.eveonline.com/)
 
-[eveproxy](https://github.com/tonycknight/eveproxy) - a proxy server for APIs in the Eve domain. Work in progress!
+[eveproxy](https://github.com/tonycknight/eveproxy) - a proxy server for APIs in the Eve domain.
