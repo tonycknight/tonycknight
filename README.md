@@ -1,7 +1,5 @@
 # Ahoy there 👋
 
-Hi, I'm Tony. I'm a Lead Engineer, gamer and incorrigble nerd.
-
 ## Some projects...
 
 ### Discord bots
