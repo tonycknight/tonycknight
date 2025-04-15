@@ -1,5 +1,5 @@
 # Ahoy there 👋
-
+x
 ## Some projects...
 
 ### Discord bots
@@ -8,13 +8,17 @@
 
 [nomoretrolls](https://github.com/tonycknight/nomoretrolls) - a Discord bot for policing chat. Not a normal cop.
 
-### Github Actions
-
-[pkgchk-action](https://github.com/marketplace/actions/pkgchk) - a Github action for checking .Net package dependencies.
-
-### Dotnet tools
+### .Net package checks
 
 [pkgchk-cli](https://github.com/tonycknight/pkgchk-cli) - a CLI tool for checking .Net package dependencies.
+
+[pkgchk-action](https://github.com/marketplace/actions/pkgchk) - And a Github action for package dependency checks.
+
+### [Eve Online](https://www.eveonline.com/)
+
+[eveproxy](https://github.com/tonycknight/eveproxy) - a proxy server for APIs in the Eve domain.
+
+### Dotnet tools
 
 [kvps-cli](https://github.com/tonycknight/kvps-cli) - a CLI tool for managing local key value pairs.
 
@@ -24,6 +28,3 @@
 
 [tktk-cli](https://github.com/tonycknight/tktk-cli) - an eclectic set of tools wrapped in a CLI.
 
-### [Eve Online](https://www.eveonline.com/)
-
-[eveproxy](https://github.com/tonycknight/eveproxy) - a proxy server for APIs in the Eve domain.
