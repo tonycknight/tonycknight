@@ -18,7 +18,7 @@
 
 [eveproxy](https://github.com/tonycknight/eveproxy) - a proxy server for APIs in the Eve domain.
 
-### Dotnet tools
+### General .Net tools
 
 [kvps-cli](https://github.com/tonycknight/kvps-cli) - a CLI tool for managing local key value pairs.
 
