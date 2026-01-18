@@ -18,13 +18,15 @@
 
 [eveproxy](https://github.com/tonycknight/eveproxy) - A proxy server for APIs in the Eve domain.
 
-### General .Net tools
+### .Net tools
 
-[kvps-cli](https://github.com/tonycknight/kvps-cli) - A CLI tool for managing local key value pairs.
+[nukit](https://github.com/tonycknight/nukit) - Clear out build clutter.
 
-[jwt-cli](https://github.com/tonycknight/jwt-cli) - A CLI tool for breaking down JWTs.
+[kvps-cli](https://github.com/tonycknight/kvps-cli) - Local key value pairs.
 
-[epoch-cli](https://github.com/tonycknight/epoch-cli) - A CLI tool for working with Epoch times.
+[jwt-cli](https://github.com/tonycknight/jwt-cli) - Break down JWTs.
+
+[epoch-cli](https://github.com/tonycknight/epoch-cli) - Epoch times.
 
 [tktk-cli](https://github.com/tonycknight/tktk-cli) - An eclectic set of tools wrapped in a CLI.
 
